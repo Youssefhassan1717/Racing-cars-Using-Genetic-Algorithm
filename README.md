@@ -2,8 +2,6 @@
   <h1>Autonomous Car Racing Simulation</h1>
   <p>Built with Pygame</p>
 </div>
-![image](https://github.com/Youssefhassan1717/Racing-cars-Using-Genetic-Algorithm/assets/106936483/767e6f0f-6845-46e6-90d6-b59b405605d3)
-
 
 ## Features
 
@@ -46,11 +44,7 @@ Feel free to experiment with different settings to observe the impact on the car
 
 The implementation of this simulation is inspired by the concepts of genetic algorithms and neural networks. It builds upon the Pygame library for graphics and user interface.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
-
 ## Contact
 
-If you have any questions or suggestions regarding this simulation, please feel free to contact [Author Name](mailto:author@example.com).
+If you have any questions or suggestions regarding this simulation, please feel free to contact [Youssef Abdelmaksoud](mailto:youssefabdelmaksoudd@example.com).
 
