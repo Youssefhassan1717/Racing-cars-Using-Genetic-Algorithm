@@ -2,6 +2,7 @@
   <h1>Autonomous Car Racing Simulation</h1>
   <p>Built with Pygame</p>
 </div>
+
 ## Features
 
 - Cars navigate through a track with various checkpoints.
