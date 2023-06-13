@@ -2,8 +2,6 @@
   <h1>Autonomous Car Racing Simulation</h1>
   <p>Built with Pygame</p>
 </div>
-![Game!](https://github.com/Youssefhassan1717/Racing-cars-Using-Genetic-Algorithm/assets/racing_cars.png)
-
 ## Features
 
 - Cars navigate through a track with various checkpoints.
